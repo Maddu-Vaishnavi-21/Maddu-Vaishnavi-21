@@ -10,7 +10,7 @@ I'm a B.Tech graduate passionate about Data Science, Machine Learning, Web Devel
 * 🌱 Currently learning Advanced Java, Spring Boot & Machine Learning
 * 💻 Interested in Data Analytics, AI, and Full Stack Development
 * 📊 Passionate about transforming data into meaningful insights
-* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+* 📫 Reach me: vaishnavimaddu07@gmail.com
 
 ## 🛠️ Technical Skills
 
